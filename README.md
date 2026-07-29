@@ -37,7 +37,7 @@
 
 > **A [Nerd Font](https://www.nerdfonts.com/) must be installed and set as your terminal font.**
 >
-> Without one, the icons will not render correctly. Recommended: [JetBrainsMono Nerd Font](https://www.nerdfonts.com/font-downloads).
+> Without one, the icons will not render correctly. Recommended: [BlexMono Nerd Font](https://www.nerdfonts.com/font-downloads).
 
 ---
 
@@ -99,7 +99,7 @@ rstree -aL 3 /path/to/project
 
 | Without icons | With Nerd Font |
 |---|---|
-| ![rstree without icons](rstree_without_icons.PNG) | ![rstree with icons](rstree_icons.PNG) |
+| ![rstree without icons](https://github.com/SeregaChit/rstree/blob/main/pictures/rstree_without_icons.PNG) | ![rstree with icons](https://github.com/SeregaChit/rstree/blob/main/pictures/rstree_icons.PNG) |
 
 ---
 
